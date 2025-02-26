@@ -34,5 +34,5 @@ A simple desktop application for creating and managing notes with text and image
 ### Steps to Run the Project
 1. **Clone the Repository:**
    ```bash
-  git clone https://github.com/moaazalaa12/note-app.git
-  cd note-app
+   git clone https://github.com/moaazalaa12/note-app.git
+   cd note-app
